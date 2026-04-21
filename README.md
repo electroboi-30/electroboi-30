@@ -1,4 +1,4 @@
-# Hi, I'm Pravin 👋
+# Hi, I'm Pravin 
 
 > **DevOps Enthusiast** · Self-hosting on VPS · Building real infrastructure
 
@@ -20,9 +20,9 @@
 ### [Portfolio VPS Infrastructure](https://github.com/electroboi-30/Test_VPS)
 > A fully self-managed cloud VPS running a portfolio site with a real-time system stats API — deployed automatically via GitHub Actions.
 
-- 🌐 **Live Site:** [http://154.61.74.145](http://154.61.74.145)
-- 📊 **Live VPS Stats API:** [http://154.61.74.145/api/stats](http://154.61.74.145/api/stats)
-- ⚙️ **Stack:** Nginx · Node.js · GitHub Actions CI/CD · Linux VPS
+-  **Live Site:** [http://154.61.74.145](http://154.61.74.145)
+-  **Live VPS Stats API:** [http://154.61.74.145/api/stats](http://154.61.74.145/api/stats)
+-  **Stack:** Nginx · Node.js · GitHub Actions CI/CD · Linux VPS
 
 ---
 
