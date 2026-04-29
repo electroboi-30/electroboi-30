@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 What I Work With
+##  What I Work With
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
